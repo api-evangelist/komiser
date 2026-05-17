@@ -34,9 +34,9 @@ apis:
     properties:
       - type: Documentation
         url: https://docs.komiser.io/
-      - type: Getting Started
+      - type: GettingStarted
         url: https://docs.komiser.io/
-      - type: GitHub Repository
+      - type: GitHubRepository
         url: https://github.com/tailwarden/komiser
       - type: License
         url: https://github.com/tailwarden/komiser/blob/master/LICENSE
@@ -45,7 +45,7 @@ common:
     url: https://www.komiser.io/
   - type: Documentation
     url: https://docs.komiser.io/
-  - type: GitHub Repository
+  - type: GitHubRepository
     url: https://github.com/tailwarden/komiser
   - type: Releases
     url: https://github.com/tailwarden/komiser/releases
