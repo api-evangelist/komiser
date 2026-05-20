@@ -41,6 +41,8 @@ apis:
       - type: License
         url: https://github.com/tailwarden/komiser/blob/master/LICENSE
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/komiser
   - type: Website
     url: https://www.komiser.io/
   - type: Documentation
