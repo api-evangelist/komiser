@@ -6,7 +6,7 @@ description: >-
   environments including AWS, Azure, GCP, DigitalOcean, OCI, Linode,
   Scaleway, Tencent, MongoDB Atlas, and Kubernetes.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Cloud Cost
   - FinOps
