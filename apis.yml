@@ -49,7 +49,7 @@ common:
     url: https://docs.komiser.io/
   - type: GitHubRepository
     url: https://github.com/tailwarden/komiser
-  - type: Releases
+  - type: ReleaseNotes
     url: https://github.com/tailwarden/komiser/releases
   - type: Issues
     url: https://github.com/tailwarden/komiser/issues
