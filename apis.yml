@@ -53,6 +53,12 @@ apis:
       - type: License
         url: https://github.com/tailwarden/komiser/blob/master/LICENSE
 common:
+  - type: SecurityPolicy
+    url: https://github.com/mlabouardy/komiser/blob/develop/SECURITY.md
+  - type: CodeOfConduct
+    url: https://github.com/mlabouardy/komiser/blob/develop/CODE_OF_CONDUCT.md
+  - type: ContributionGuide
+    url: https://github.com/mlabouardy/komiser/blob/develop/CONTRIBUTING.md
   - type: DomainSecurity
     url: security/komiser-domain-security.yml
   - type: LinkedIn
