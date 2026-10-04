@@ -8,6 +8,10 @@ description: >-
 type: Index
 deliveryModel:
   model: unknown
+  license_evidence:
+    repo: tailwarden/komiser
+    spdx: NOASSERTION
+    stars: 4144
   open_source: unknown
   commercial: false
   callable_host: false
@@ -15,7 +19,7 @@ deliveryModel:
   confidence: low
   source:
   - repository-unlicensed
-  generated: '2026-08-28'
+  generated: '2026-09-25'
   method: derived
 accessModel:
   pricing: freemium
@@ -35,13 +39,14 @@ tags:
   - FinOps
   - Governance
   - Multi-Cloud
-  - Open-Source
+  - Open Source
 tags_raw:
   - Cloud Cost
   - FinOps
   - Governance
   - Multi-Cloud
   - Open Source
+  - Open-Source
 url: >-
   https://raw.githubusercontent.com/api-evangelist/komiser/refs/heads/main/apis.yml
 created: '2026-03-27'
